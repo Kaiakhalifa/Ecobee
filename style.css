@@ -1,0 +1,99 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+.grid { 
+    
+    display: grid; 
+    gap: 10px;
+    grid-template-columns: repeat( 12,1fr);
+}
+
+
+
+
+
+
+
+
+
+<style>
+
+#coolBox {
+    color:black;
+    background-color:lemonchiffon;
+    border-style: solid;
+    border-width:2px;
+    border-color:darkred;
+    border-radius:5px;
+}
+</style>
+<div id="coolBox">What a cool looking box!</div>
+
+<p class="smallText">This is a small  <style>
+body {
+    font-size:14pt;
+}
+.smallText {
+    font-size:1em;
+}
+.bigText {
+    font-size:1.2em;
+}
+.hugeText {
+    font-size:1.4em;
+}
+</style>
+<style>
+#coolBox {
+    color:rgb(252, 49, 49)52, 49, 49)52, 49, 49);
+    background-color:lemonchiffon;
+    border-style: solid;
+    border-width:2px;
+    border-color:darkred;
+    border-radius:5px;
+    font-size:14pt;
+    margin:20px;
+    padding:20px;
+}
+</style>
+<style>
+#coolBox {
+    color:black;
+    background-color:lemonchiffon;
+    border-style: solid;
+    border-width:2px;
+    border-color:rgba(0, 95, 139, 0.329);
+    border-radius:5px;
+}
+</style>
+<style>
+
+.coolBox {
+    color:black;
+    background-color:rgb(205, 255, 253);
+    border-style: solid;
+    border-width:2px;
+    border-color:rgb(134, 0, 139);
+    border-radius:5px;
+    font-size:14pt;
+    margin:20px;
+    padding:20px;
+}
+</style>
+<div id="coolBox">What a cool looking box!</div>
+
+<p class="smallText">This is a small text paragraph.</p>
+<p class="bigText">This is a big text paragraph.</p>text paragraph.</p>
+<p class="bigText">This is a big text paragraph.</p>
+ img { max width 10% }
+     Padding - left:10%
+     Padding - right 10% 
+
+</main>
+
+
+<footer > 
+    copy right love flowers 
+
+</footer>
+</body>
+</html>
